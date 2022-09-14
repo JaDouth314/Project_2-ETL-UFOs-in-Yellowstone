@@ -15,4 +15,5 @@ PostgreSQL
 
 2.  Open a GitBash or Terminal on the **Project_2** repo and open a jupyter notebook.
 
+3.  Click on and run the `Project_2.ipynb` notebook.
 
