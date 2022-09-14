@@ -12,6 +12,7 @@ create table ufo_sightings(
 create table yellowstone(
 	year DATE,
 	visitor_count INTEGER
+	
 )
 
 select * from yellowstone;
