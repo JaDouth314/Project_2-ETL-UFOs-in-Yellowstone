@@ -7,6 +7,7 @@ create table ufo_sightings(
 	duration_seconds INTEGER,
 	sighting_description VARCHAR(255),
 	year DATE
+	
 )
 
 -- drop table yellowstone;
