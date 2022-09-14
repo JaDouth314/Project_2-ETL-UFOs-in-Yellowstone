@@ -15,11 +15,13 @@ PostgreSQL
 
 2.  Open a GitBash or Terminal on the **Project_2** repo and open a jupyter notebook.
 
-3.  In the database of your choice, create a database called `project_2_db`.
+3.  In the database of your choice, create a database called `ufos_wyoming`.
 
-4.  Copy `tables.sql` into the schema and create the databases
+4.  Open the `tables.sql` file into the query tool and create the tables.
 
 5.  Click on and run the `Project_2.ipynb` notebook in Pandas.
 
-  
-
+6.  postgres_host = "localhost"
+    postgres_password = "bootcamp"
+    postgres_port = 5432
+    postgres_db_name = "ufos_wyoming"
