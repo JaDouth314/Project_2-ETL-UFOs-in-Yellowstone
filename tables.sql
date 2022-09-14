@@ -1,5 +1,6 @@
 -- drop table ufo_sightings;
 create table ufo_sightings(
+	datetime DATE PRIMARY KEY,
 	city VARCHAR(255),
 	state VARCHAR(255),
 	ufo_shape VARCHAR(255),
@@ -10,7 +11,7 @@ create table ufo_sightings(
 
 -- drop table yellowstone;
 create table yellowstone(
-	year DATE,
+	year DATE PRIMARY KEY,
 	visitor_count INTEGER
 	
 )
