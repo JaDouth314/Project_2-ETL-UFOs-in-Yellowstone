@@ -13,7 +13,9 @@ PostgreSQL
 ## User instructions:
 1.  Clone the **Project_2** repo from GitHub onto your local device.
 
-2.  Open a GitBash or Terminal on the **Project_2** repo and open a jupyter notebook.
+2.  Launch a GitBash(PC) or Terminal(Mac) on the **Project_2** repo and type `source activate PythonData38`.
+
+3.  Type `jupyter notebook` and hit `ENTER`.
 
 3.  In the database of your choice, create a database called `ufos_wyoming`.
 
