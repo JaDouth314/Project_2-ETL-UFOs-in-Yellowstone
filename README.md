@@ -26,9 +26,9 @@ PostgreSQL
 
 7.  Run the juptyer notebook code. Ensure that the following variables from the `config.py` are used in the connection string.
 
-    postgres_host = "localhost"
-    postgres_password = "bootcamp"
-    postgres_port = 5432
-    postgres_db_name = "ufos_wyoming"
+    - postgres_password = "bootcamp" 
+    - postgres_port = 5432
+    - postgres_host = "localhost"
+    - postgres_db_name = "ufos_wyoming"
 
 8. In PostgreSQL, run the final code to display the populated tables.
