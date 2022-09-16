@@ -1,11 +1,11 @@
--- drop table ufo_sightings;
+drop table ufo_sightings;
 create table ufo_sightings(
 	datetime DATE PRIMARY KEY,
 	city VARCHAR(255),
 	state VARCHAR(255),
 	ufo_shape VARCHAR(255),
 	duration_seconds INTEGER,
-	sighting_description VARCHAR(255),
+	sighting_description TEXT,
 	year DATE
 	
 )
